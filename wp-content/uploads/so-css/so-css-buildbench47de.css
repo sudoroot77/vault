@@ -1,0 +1,46 @@
+.ts-working-box .working-icon-wrapper .working-arrow {
+right: -38px !important
+}
+
+h4.sp-tab__tab_title{
+margin-top: 10px !important;
+}
+
+.wpcargo-btn:not(:disabled):not(.disabled), .wpcargo-page-link:not(:disabled):not(.disabled) {
+    color: black;
+}
+
+.ts-footer {
+    padding-top: 30px !important;
+}
+
+@media (max-width: 767px){
+.img-fluid {
+    max-width: 60%;
+    height: auto;
+}
+}
+
+.blog-single .post-meta{
+display: none;
+}
+
+.post-navigation {
+display: none;
+}
+
+span.post-author{
+display: none;
+}
+
+.slider-item .slider-content .slider-title{
+color: #caa755;
+}
+
+.tawk-branding {
+display: none !important;
+}
+
+#shipment-history td:nth-child(5),
+#shipment-history th:nth-child(5) {
+display: none;}
